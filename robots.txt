@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://seeweigaig.brockboland.com/sitemap.xml
